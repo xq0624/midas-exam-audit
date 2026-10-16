@@ -1,0 +1,4 @@
+{
+  "_comment": "把 mapi_key 填成你自己的 MIDAS MOA API key；或者不用本文件、改设环境变量 MIDAS_MAPI_KEY。请勿把真实 key 提交到公开仓库。",
+  "mapi_key": ""
+}

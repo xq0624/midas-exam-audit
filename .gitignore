@@ -1,0 +1,14 @@
+# 真实 API key
+config.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 审核产物（含考生个人信息，不入库）
+audit/
+out/
+tmp_models/
+*.tmp
